@@ -35,3 +35,7 @@ The main objectives of this project are to:
 - Take a clean VM snapshot for recovery.
 - Document the complete setup process.
 - Prepare the environment for future cybersecurity projects.
+
+# SCREENSHOTS 
+![](image.png)
+
